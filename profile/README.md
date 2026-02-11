@@ -5,7 +5,7 @@
 <h1 align="center">NekoTech Foundation</h1>
 
 <p align="center">
-  [<a href="https://discord.nekofoundation.tech">Join our Discord Server</a>] [<a href="https://nekofoundation.tech">NekoTech Homepate</a>] [<a href="mailto:contact@nekofoundation.tech">Contact us</a>] [<a href="mailto:works@nekofoundation.tech">Book for a commission</a>]
+  [<a href="https://discord.nekofoundation.tech">Join our Discord Server</a>] [<a href="https://nekofoundation.tech">NekoTech Homepage</a>] [<a href="mailto:contact@nekofoundation.tech">Contact us</a>] [<a href="mailto:works@nekofoundation.tech">Book for a commission</a>]
 </p>
 
 <p align="center">
