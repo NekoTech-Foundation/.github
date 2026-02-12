@@ -29,7 +29,7 @@ Founded by [@akk1to](https://github.com/akk1to) in September 26, 2025, we began 
 
 # What do we do? 🔥
 
-We work on a lot of project, including [KentaBucket](https://kentabucket.nekofoundation.tech), NekoAI, NekoComics and more! Join our [Discord Server](https://discord.nekofoundation.tech) to learn about or project, and become a tester, so we can release our project as soon as possible!
+We work on a lot of project, including [KentaBucket](https://bot.nekofoundation.tech), NekoAI, NekoComics and more! Join our [Discord Server](https://discord.nekofoundation.tech) to learn about or project, and become a tester, so we can release our project as soon as possible!
 
 # Join the community 💬
 
