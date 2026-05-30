@@ -2,7 +2,7 @@
   <img alt="NekoTech Banner" src="https://github.com/user-attachments/assets/ade256ff-838e-404d-ae58-def52c1c14f5" width="full"/>
 </picture>
 
-<h1 align="center">NekoTech Foundation</h1>
+<h1>NekoTech Foundation</h1>
 
 <p align="center">
   [<a href="https://discord.nekofoundation.tech">Join our Discord Server</a>] [<a href="https://nekofoundation.tech">NekoTech Homepage</a>] [<a href="mailto:contact@nekofoundation.tech">Contact us</a>] [<a href="mailto:works@nekofoundation.tech">Book for a commission</a>]
@@ -18,7 +18,8 @@
 > We do provide consulting and outsourcing services for enterprises, servers or individuals, if you are interested in cooperating with us
 >
 > - to customize your own Discord Bot/build your own Discord Bot with request
-> - to book a commission for programm/project
+> - to design/redesign your Discord Community (include setup channels, roles & bots)
+> - to book a commission for custom programme/project
 > - to modify/develop your source code/other source code that you've bought/collected online
 >
 > we've got a entire team expert to work for your project, please contact us at [works@nekofoundation.tech](mailto:works@nekofoundation.tech).
@@ -30,6 +31,9 @@ Founded by [@akk1to](https://github.com/akk1to) in September 26, 2025, we began 
 # What do we do? 🔥
 
 We work on a lot of project, including [KentaBucket](https://bot.nekofoundation.tech), NekoAI, NekoComics and more! Join our [Discord Server](https://discord.nekofoundation.tech) to learn about or project, and become a tester, so we can release our project as soon as possible!
+
+**Planned release schedule**
+> - **June 2026:** scheduled to release NekoComics, a fast & ad-free manga reader.
 
 # Join the community 💬
 
