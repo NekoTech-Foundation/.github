@@ -2,7 +2,7 @@
   <img alt="NekoTech Banner" src="https://github.com/user-attachments/assets/ade256ff-838e-404d-ae58-def52c1c14f5" width="full"/>
 </picture>
 
-<h1>NekoTech Foundation</h1>
+<h1 align="center">NekoTech Foundation</h1>
 
 <p align="center">
   [<a href="https://discord.nekofoundation.tech">Join our Discord Server</a>] [<a href="https://nekofoundation.tech">NekoTech Homepage</a>] [<a href="mailto:contact@nekofoundation.tech">Contact us</a>] [<a href="mailto:works@nekofoundation.tech">Book for a commission</a>]
