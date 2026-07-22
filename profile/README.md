@@ -1,8 +1,9 @@
 <picture>
-  <img alt="NekoTech Banner" src="https://github.com/user-attachments/assets/ade256ff-838e-404d-ae58-def52c1c14f5" width="full"/>
+  <img alt="NekoTech Banner" src="https://github.com/user-attachments/assets/2acc1705-20b2-4f6f-b23b-1cded581a75b" width="full"/>
 </picture>
 
-<h1 align="center">NekoTech Foundation</h1>
+<h3 align="center">NekoTech Foundation</h1>
+<p align="center">We build. We ship. We share.</p>
 
 <p align="center">
   [<a href="https://discord.nekofoundation.tech">Join our Discord Server</a>] [<a href="https://nekofoundation.tech">NekoTech Homepage</a>] [<a href="mailto:contact@nekofoundation.tech">Contact us</a>] [<a href="mailto:works@nekofoundation.tech">Book for a commission</a>]
@@ -26,14 +27,24 @@
 
 # Hi there, we are NekoTech Foundation! 👋
 
-Founded by [@akk1to](https://github.com/akk1to) in September 26, 2025, we began as a small Discord group with a single goal: recreating a manga reader. That initial project laid the foundation for the team we are today—a group of passionate developers building innovative tools and impressive digital experiences.
+Founded by [@ssdarealest](https://github.com/ssdarealest) in September 26, 2025, we began as a small Discord group with a single goal: recreating a manga reader. That initial project laid the foundation for the team we are today—a group of passionate developers building innovative tools and impressive digital experiences.
+
+## Our team
+
+Currently we have 3 members in our team
+> - [@ssdarealest](https://alyosha.is-a.dev), the founder of the team.
+> - [@heiznerd](https://heiznerd.is-a.dev), Co-Founder & Lead of R&D.
+> - [@maiminhdung](https://maiminhdung.dev), Co-Founder & Lead of R&D.
+
+We are seeking for more member to join our team. Please let us know by leave a favour through [contact@nekofoundation.tech](mailto:contact@nekofoundation.tech).
 
 # What do we do? 🔥
 
 We work on a lot of project, including [KentaBucket](https://bot.nekofoundation.tech), NekoAI, NekoComics and more! Join our [Discord Server](https://discord.nekofoundation.tech) to learn about or project, and become a tester, so we can release our project as soon as possible!
 
 **Planned release schedule**
-> - **June 2026:** scheduled to release NekoComics, a fast & ad-free manga reader.
+> - **Late Summer 2026:** AniThing, online discussion platform for wibu-er.
+> - **Late Summer 2026:** NekoAI, a virtual 2D AI platform, power your task daily.
 
 # Join the community 💬
 
